@@ -1,0 +1,4 @@
+1723, Asma, artificial intelligent, How the machine thinks: intelligent learning,1,1,1,1,1,1,true,00023#
+1777,Rania, database, nan,1,1,1,0,0,0,false,0#
+1003,Sara, network, nan,1,1,1,1,1,1,true,00013#
+1743,Roaa, artificial intelligent, nan,1,1,1,0,0,0,false,0#

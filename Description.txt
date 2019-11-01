@@ -1,0 +1,3 @@
+Program Description 
+ 
+Write a program to manage the registration in CS senior project. We have a file for a senior project, each project contains (student ID, Student Name, research interests, suggested topic, an array of the previous courses including status, approval, supervisor ID). A student can enroll in the senior project if he/she find a suitable supervisor, complete a minimum requirement of the studied courses. 
